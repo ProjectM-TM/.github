@@ -1,5 +1,5 @@
 <div>
-  <h2>"An idea is the most powerful force in the world." © Albert Einstein</h2>
+  <h2>"No army can withstand the power of an idea whose time has come." © Victor Hugo</h2>
   <p><strong>Contact:</strong> projectm.helper@gmail.com</p>
   <p><strong>Telegram:</strong> @projectm_admin</p>
 
