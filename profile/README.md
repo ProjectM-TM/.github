@@ -1,12 +1,10 @@
-## Hi there 👋
+<div>
+  <h2>"An idea is the most powerful force in the world." © Albert Einstein</h2>
+  <p><strong>Contact:</strong> projectm.helper@gmail.com</p>
+  <p><strong>Telegram:</strong> @projectm_admin</p>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  <details>
+    <summary>Click to reveal more information</summary>
+    <p>This is a special section where I will add additional information later.</p>
+  </details>
+</div>
